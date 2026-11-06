@@ -31,7 +31,7 @@ Both the old Dyrnwyn and red_trail are still present in the game files. So why d
 
 ## AI使用說明:
 
-此模組中的所有程式碼皆由AI生成。但我已經在遊戲中測試確認模組功能沒問題了。
+> 此模組中的所有程式碼皆由AI生成。但我已經在遊戲中測試確認模組功能沒問題了。
 
 ## 功能
 一個簡單的客戶端模組，把用火焰劍攻擊時產生的白色殘影替換成火紅色的殘影
