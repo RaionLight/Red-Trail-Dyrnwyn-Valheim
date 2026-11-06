@@ -27,7 +27,7 @@ This mod replaces the trail material generated when attacking with Dyrnwyn. Inst
 > Both the old Dyrnwyn and red_trail are still present in the game files. So why did the new Dyrnwyn lose a feature that the old version had, even though the red_trail asset is still right there in the game?
 ## Iron Gaaaaaaaate
 
-## 中文簡介
+## 火紅色殘影火焰劍
 
 ## AI使用說明:
 
