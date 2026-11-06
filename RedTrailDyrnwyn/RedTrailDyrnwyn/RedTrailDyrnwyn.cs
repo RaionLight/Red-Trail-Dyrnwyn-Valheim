@@ -4,12 +4,12 @@ using UnityEngine;
 
 namespace RedTrailDyrnwyn
 {
-    [BepInPlugin("com.yourname.redtraildyrnwyn", "Red Trail Dyrnwyn Mod", "1.0.0")]
+    [BepInPlugin("com.sbo.redtraildyrnwyn", "Red Trail Dyrnwyn Mod", "1.0.0")]
     public class TrailModifierPlugin : BaseUnityPlugin
     {
         private void Awake()
         {
-            Harmony harmony = new Harmony("com.yourname.redtraildyrnwyn");
+            Harmony harmony = new Harmony("com.sbo.redtraildyrnwyn");
             harmony.PatchAll();
             Logger.LogInfo("Red Trail Dyrnwyn 模組已成功載入！");
         }
