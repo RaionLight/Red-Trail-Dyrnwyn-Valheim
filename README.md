@@ -34,7 +34,7 @@ Both the old Dyrnwyn and red_trail are still present in the game files. So why d
 此模組中的所有程式碼皆由AI生成。但我已經在遊戲中測試確認模組功能沒問題了。
 
 ## 功能
-一個簡單的客戶端模組，把使用Dyrnwyn攻擊時產生的白色trail替換成火紅色的trail
+一個簡單的客戶端模組，把用火焰劍攻擊時產生的白色殘影替換成火紅色的殘影
 
 ## 安裝方式
 ### 模組管理器(推薦):
@@ -42,6 +42,6 @@ Both the old Dyrnwyn and red_trail are still present in the game files. So why d
 ### 手動安裝:
 在模組頁面...點擊Download下載，確保BepInExPack Valheim ( https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/ ) 已經安裝後，將壓縮檔內的RedTrailDyrnwyn.dll放到遊戲目錄下的 BepInEx/plugins/ 資料夾中。
 ## 原理
-把使用Dyrnwyn攻擊時產生的trail的material從原本所有武器共用的白色的club_trail替換成同樣是Valheim中自帶的red_trail。
-fun fact(有趣的是): 這個red_trail是舊版Dyrnwyn (預製件名稱: SwordIronFire)的trail的material，無論是舊版Dyrnwyn還是red_trail都是還在遊戲內的檔案。而舊版Dyrnwyn有的特色但新版卻沒有了，明明red_trail的檔案都還在遊戲裡。
+把使用Dyrnwyn攻擊時產生的殘影(trail)的material從原本所有武器共用的白色的club_trail替換成同樣是Valheim中自帶的red_trail。
+有趣的是: 這個red_trail是舊版Dyrnwyn (預製件名稱: SwordIronFire)的trail的material，無論是舊版Dyrnwyn還是red_trail都是還在遊戲內的檔案。而舊版Dyrnwyn有的特色但新版卻沒有了，明明red_trail的檔案都還在遊戲裡。
 ## Iron Gaaaaaaaate
