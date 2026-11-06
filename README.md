@@ -43,5 +43,8 @@ Both the old Dyrnwyn and red_trail are still present in the game files. So why d
 在模組頁面...點擊Download下載，確保BepInExPack Valheim ( https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/ ) 已經安裝後，將壓縮檔內的RedTrailDyrnwyn.dll放到遊戲目錄下的 BepInEx/plugins/ 資料夾中。
 ## 原理
 把使用Dyrnwyn攻擊時產生的殘影(trail)的material從原本所有武器共用的白色的club_trail替換成同樣是Valheim中自帶的red_trail。
-有趣的是: 這個red_trail是舊版Dyrnwyn (預製件名稱: SwordIronFire)的trail的material，無論是舊版Dyrnwyn還是red_trail都是還在遊戲內的檔案。而舊版Dyrnwyn有的特色但新版卻沒有了，明明red_trail的檔案都還在遊戲裡。
+
+有趣的是: 這個red_trail是舊版Dyrnwyn (預製件名稱: SwordIronFire)的trail的material，無論是舊版Dyrnwyn還是red_trail都是還在遊戲內的檔案。
+
+而舊版Dyrnwyn有的特色但新版卻沒有了，明明red_trail的檔案都還在遊戲裡。
 ## Iron Gaaaaaaaate
