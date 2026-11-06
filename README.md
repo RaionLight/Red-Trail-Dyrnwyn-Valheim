@@ -12,11 +12,11 @@ A simple client-side mod that replaces the white trail generated when attacking 
 
 ### Mod Manager (Recommended):
 
-On the mod page, click Install with App to download and install the mod using Thunderstore Mod Manager.
+On the mod page( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ ), click Install with App to download and install the mod using Thunderstore Mod Manager.
 
 ### Manual Installation:
 
-On the mod page, click Download. Make sure BepInExPack Valheim is already installed, then extract RedTrailDyrnwyn.dll from the downloaded archive and place it in the BepInEx/plugins/ folder inside your game directory.
+On the mod page( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ ), click Download. Make sure BepInExPack Valheim is already installed, then extract RedTrailDyrnwyn.dll from the downloaded archive and place it in the BepInEx/plugins/ folder inside your game directory.
 
 ## How It Works
 
@@ -38,9 +38,9 @@ This mod replaces the trail material generated when attacking with Dyrnwyn. Inst
 
 ## 安裝方式
 ### 模組管理器(推薦):
-在模組頁面...點擊Install with App用Thunderstore Mod Manager下載並安裝
+在模組頁面( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ )點擊Install with App用Thunderstore Mod Manager下載並安裝
 ### 手動安裝:
-在模組頁面...點擊Download下載，確保BepInExPack Valheim ( https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/ ) 已經安裝後，將壓縮檔內的RedTrailDyrnwyn.dll放到遊戲目錄下的 BepInEx/plugins/ 資料夾中。
+在模組頁面( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ )點擊Download下載，確保BepInExPack Valheim ( https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/ ) 已經安裝後，將壓縮檔內的RedTrailDyrnwyn.dll放到遊戲目錄下的 BepInEx/plugins/ 資料夾中。
 ## 原理
 把使用Dyrnwyn攻擊時產生的殘影(trail)的material從原本所有武器共用的白色的club_trail替換成同樣是Valheim中自帶的red_trail。
 
