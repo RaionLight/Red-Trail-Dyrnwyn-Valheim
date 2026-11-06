@@ -22,9 +22,9 @@ On the mod page, click Download. Make sure BepInExPack Valheim is already instal
 
 This mod replaces the trail material generated when attacking with Dyrnwyn. Instead of using the default white club_trail shared by all weapons, it uses red_trail, another material already included in Valheim.
 
-Fun Fact: Interestingly, red_trail was actually the trail material used by the old version of Dyrnwyn (prefab name: SwordIronFire).
+> Fun Fact: Interestingly, red_trail was actually the trail material used by the old version of Dyrnwyn (prefab name: SwordIronFire).
 
-Both the old Dyrnwyn and red_trail are still present in the game files. So why did the new Dyrnwyn lose a feature that the old version had, even though the red_trail asset is still right there in the game?
+> Both the old Dyrnwyn and red_trail are still present in the game files. So why did the new Dyrnwyn lose a feature that the old version had, even though the red_trail asset is still right there in the game?
 ## Iron Gaaaaaaaate
 
 ## 中文簡介
