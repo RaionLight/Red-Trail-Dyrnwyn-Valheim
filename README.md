@@ -16,7 +16,7 @@ On the mod page( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTr
 
 ### Manual Installation:
 
-On the mod page( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ ), click Download. Make sure BepInExPack Valheim is already installed, then extract RedTrailDyrnwyn.dll from the downloaded archive and place it in the BepInEx/plugins/ folder inside your game directory.
+On the mod page( https://thunderstore.io/c/valheim/p/SmoothBrainedOrganism/RedTrailDyrnwyn/ ), click Download. Make sure BepInExPack Valheim ( https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/ ) is already installed, then extract RedTrailDyrnwyn.dll from the downloaded archive and place it in the BepInEx/plugins/ folder inside your game directory.
 
 ## How It Works
 
